@@ -33,23 +33,23 @@ Os sites e App’s encontrados, que funcionam com o sistema de trocas, sempre en
 Já o Permuto, ao realizar os serviços, você recebe dinheiro virtual, para comprar produtos e serviços no site e o Escambo Livre, é gerado um crédito em R$, onde o usuário pode usar para comprar serviços na plataforma. Além de serviços, eles envolvem produtos, que não são o foco do nosso App.
 
 Requisitos Funcionais:
-	RF001: Cadastrar os dados do usuário; (cadastro).
-	RF002: Cadastrar serviços; (Perfil).
-	RF003: Localizar serviços; (Buscas).
-	RF004: Cadastrar as avaliações; (Avaliações)
-	RF005: Efetuar cancelamentos de Contratos;(Negociações).
-	RF006: Consultar os andamentos das trocas de serviços; (Negociações).
-	RF007: Solicitar Troca de serviços; (mensagens).
-	RF009: Confirmar Troca de serviços;(Negociações).
-	RF009: Gerar contrato após confirmação entre os usuários;(Termos e políticas).
+RF001: Cadastrar os dados do usuário; (cadastro).
+RF002: Cadastrar serviços; (Perfil).
+RF003: Localizar serviços; (Buscas).
+RF004: Cadastrar as avaliações; (Avaliações)
+RF005: Efetuar cancelamentos de Contratos;(Negociações).
+RF006: Consultar os andamentos das trocas de serviços; (Negociações).
+RF007: Solicitar Troca de serviços; (mensagens).
+RF009: Confirmar Troca de serviços;(Negociações).
+RF009: Gerar contrato após confirmação entre os usuários;(Termos e políticas).
 
 Requisitos Não Funcionais:
-	RNF001: Confirmar e-mail para evitar duplo cadastramento;(Termos e políticas)
-	RNF002: Compatível com mobile (iOS/Android);(Sobre).
-	RNF003: Compatibilidade com leitor de tela;(sobre).
-	RNF004: Permitir a estética da interface do usuário;(Configurações).
-	RNF005: Fácil usabilidade;(Regras).
-	RNF006: Atuar de forma íntegra na disponibilidade de suas funções, através de um servidor online;(Sobre).
+RNF001: Confirmar e-mail para evitar duplo cadastramento;(Termos e políticas)
+RNF002: Compatível com mobile (iOS/Android);(Sobre).
+RNF003: Compatibilidade com leitor de tela;(sobre).
+RNF004: Permitir a estética da interface do usuário;(Configurações).
+RNF005: Fácil usabilidade;(Regras).
+RNF006: Atuar de forma íntegra na disponibilidade de suas funções, através de um servidor online;(Sobre).
 
 Caso de Uso:
 Em andamento
