@@ -35,6 +35,7 @@ Já o Permuto, ao realizar os serviços, você recebe dinheiro virtual, para com
 Requisitos Funcionais:
 RF001: Cadastrar os dados do usuário; (cadastro).
 RF002: Cadastrar serviços; (Perfil).
+
 RF003: Localizar serviços; (Buscas).
 RF004: Cadastrar as avaliações; (Avaliações)
 RF005: Efetuar cancelamentos de Contratos;(Negociações).
